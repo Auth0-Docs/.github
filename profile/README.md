@@ -18,7 +18,7 @@ Auth0 is a cloud identity service for teams that need login, authorization, user
 
 The platform centers on auth0 login, auth0 api protection, extensible rules through Actions, and SDKs for common web, mobile, and backend frameworks. Teams comparing auth0 price, auth0 pricing, okta auth0, and auth0 vs options can use this repository as a practical overview before reviewing auth0 documentation or deeper auth0 docs.
 
-![Architecture diagram showing application login through Auth0 tenant, identity providers, MFA, tokens, and protected APIs](https://auth0.mintlify.app/docs/images/share-image.png)
+![Architecture diagram showing application login through Auth0 tenant, identity providers, MFA, tokens, and protected APIs](https://docs.weweb.io/assets/auth0-2.BnD8LWJs.png)
 
 ## Integration Map for Auth0 Projects
 
